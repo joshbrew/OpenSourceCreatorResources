@@ -89,7 +89,7 @@ Omni editor, I use it mainly for Java or C
 
 https://eclipse.org
 
-### Arduino
+#### Arduino
 Arduino microcontrolller libraries. Tons of free templates and examples. Open hardware (tons of cheap competitors, 5 dollar BT/WiFI ESP32 for example, or a 1 dollar Arduino Nano)
 
 https://arduino.cc
@@ -147,8 +147,8 @@ The free version is great, much more user friendly than KiCAD but limited for no
 
 https://www.autodesk.com/products/eagle/overview
 
-## Coding Library Highlights
-Here's libraries that are very current in their philosophy and optimization. I'm still learning how to use most of these but they're freakin sweet.
+## Coding API Highlights
+Here's APIs that are very current in their philosophy and optimization. I'm still learning how to use most of these but they're freakin sweet. There are obviously dozens of popular free distibuted APIS (database APIs, visual APIs, etc) but these are a few I enjoy in particular.
 
 #### Tensorflow
 Google's machine learning and data analytics libraries. Super optimized, based on Nvidia hardware. Unreal Engine compatible via a plugin (omg). This covers the other really useful python libraries like pandas or numpy, and also Nvidia's dev tools.
@@ -165,7 +165,7 @@ Open Computer Vision library. O.G. C++ and C libraries for all things machine le
 https://opencv.org
 
 #### NodeJS
-Package and library manager for Javascript projects. Pretty essential for any applications and lets you access tens of thousands of libraries.
+Package and library manager for Javascript projects. Pretty essential for any applications and lets you access tens of thousands of packaged libraries and share work.
 
 https://nodejs.org
 
