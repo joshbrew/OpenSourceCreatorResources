@@ -148,7 +148,7 @@ The free version is great, much more user friendly than KiCAD but limited for no
 https://www.autodesk.com/products/eagle/overview
 
 ## Coding Library Highlights
-Here's that are very current in their philosophy and optimization. I'm still learning how to use most of these but they're freakin sweet.
+Here's libraries that are very current in their philosophy and optimization. I'm still learning how to use most of these but they're freakin sweet.
 
 #### Tensorflow
 Google's machine learning and data analytics libraries. Super optimized, based on Nvidia hardware. Unreal Engine compatible via a plugin (omg). This covers the other really useful python libraries like pandas or numpy, and also Nvidia's dev tools.
@@ -170,7 +170,7 @@ Package and library manager for Javascript projects. Pretty essential for any ap
 https://nodejs.org
 
 #### React Native
-Facebook's mobile app development interface. It's changing rapidly and is still in alpha, and some of the documentation is still very poor for certain applications without a lot of prior knowledge in CS. However, the ease of creating applications and doing things like hot-reloading makes rapid prototyping very easy. It's just not great for resource-intensive apps with the current threading structure.
+Facebook's mobile app development interface. It's changing rapidly and is still in alpha, and some of the documentation is still very poor for certain applications without a lot of prior knowledge in CS. However, the ease of creating applications and doing things like hot-reloading makes rapid prototyping very easy. It's just not great for resource-intensive apps with the current threading structure. Lots of free packages.
 
 https://facebook.github.io/react-native/
 
