@@ -47,10 +47,12 @@ Need to mention Autodesk's 3DsMax and Maya, which have free licenses for educati
 ## Video
 
 #### OpenShot
+Open source video editing, lots of free effects libraries and stuff.
 
 https://openshot.org
 
 #### Da Vinci Resolve
+Professional software with a really great free version
 
 https://resolve.org
 
@@ -120,7 +122,7 @@ https://mozilla.org
 Game design is one of the best ways to internalize coding logic and hierarchical programming. It's also a straightforward way to learn about performance and low level programming as the results are immediately obvious by what happens your screen.
 
 #### Godot Engine
-Great starting place, the most recent updates make it a very viable way to make performant 2D or 3D games rapidly with a growing community. You can alternate between 3 programming languages at will including a custom scripting engine. It's fun to use, has tons of tutorials, and a browser of free projects you can use to remix mechanics.
+Great starting place, the most recent updates make it a very viable way to make performant 2D or 3D games rapidly with a growing community. You can alternate between 3 programming languages at will including a custom scripting engine. It's fun to use and has tons of tutorials plus a browser of free projects you can use to remix mechanics.
 
 https://godotengine.org
 
