@@ -1,5 +1,5 @@
 # Open Source Creator Resources
-A smattering of mostly free and open source software, or at least software with sufficient free versions that I use on the regular. Good starting place for anyone's computer career or if you never want to pay a dime and be all-powerful. The communities around this software are awesome, too.  Made this mostly just so I don't forget.
+A smattering of mostly free and open source software, or at least software with sufficient free versions that I use on the regular. Good starting place for anyone's computer career or if you never want to pay a dime and still be all-powerful. The communities around this software are awesome, too.  Made this mostly just so I don't forget.
 
 ## Digital Art
 
