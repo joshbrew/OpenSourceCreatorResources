@@ -4,7 +4,7 @@ A smattering of mostly free and open source software, or at least software with 
 ## Digital Art
 
 #### Blender 2.8
-3D Art, Rendering, 2D/3D Animation, 2D/3D CAD mods
+3D Art, Rendering, 2D/3D Animation, 2D/3D CAD mods, video editing, sequence scripting, and lots more.
 
 https://blender.org 
 
@@ -45,6 +45,7 @@ https://canva.com
 Need to mention Autodesk's 3DsMax and Maya, which have free licenses for educational purposes, but require a subscription for commercial use.
 
 ## Video
+Blender has some great features for this.
 
 #### OpenShot
 Open source video editing, lots of free effects libraries and stuff.
@@ -59,7 +60,14 @@ https://resolve.org
 ## Audio
 
 #### Audacity
+Ye olde audacity
+
 https://audacityteam.org
+
+#### LMMS
+Really smooth software
+
+https://lmms.io/
 
 #### Ardour
 Free source, pay-what-you-want build
