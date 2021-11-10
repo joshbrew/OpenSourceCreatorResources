@@ -150,7 +150,7 @@ It's cheaper than ever to prototype manufacture circuit boards and even flexible
 #### KiCAD
 Nasa-published full free and open source PCB editor.
 
-https://kicad-pcb.org
+https://kicad.org
 
 #### Autodesk EAGLE
 The free version is great, much more user friendly than KiCAD but limited for non-education purposes without paying.
