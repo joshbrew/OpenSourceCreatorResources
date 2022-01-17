@@ -3,12 +3,12 @@ A smattering of mostly free and open source software, or at least software with 
 
 ## Digital Art
 
-#### Blender 2.8
+#### Blender 3
 3D Art, Rendering, 2D/3D Animation, 2D/3D CAD mods, video editing, sequence scripting, and lots more.
 
 https://blender.org 
 
-Alternatively use bforartists
+Alternatively use bforartists for better UX
 
 https://bforartists.de
 
@@ -104,6 +104,12 @@ Arduino microcontrolller libraries. Tons of free templates and examples. Open ha
 
 https://arduino.cc
 
+#### nRF Connect via VSCode (plus Zephyr)
+State of the art microcontroller coding and RTOS support. It's production quality stuff.
+
+Extension Info: https://www.nordicsemi.com/Products/Development-tools/nRF-Connect-for-VS-Code
+With Zephyr: https://zephyrproject.org/getting-started-with-nrf-connect-for-visual-studio-code/
+
 #### Android Studio
 The main industry mobile app editor for Android. It's not the easiest to learn but lets you do anything with an Android phone.
 
@@ -121,10 +127,10 @@ Chrome's built-in debugging and editing interface is my favorite for web debuggi
 
 https://google.com/chrome
 
-#### Firefox
-Runner up is Firefox's editor. Has certain advantages over Chrome but is not always as efficient. ctrl+shift+S opens it up. It's good to use both editors to verify your webapp works cross-platform, especially with the CSS as there are often very noticeable differences.
+#### Chromium
+FOSS base of Chrome, Brave, Edge, etc. It's a lot of stuff but it has the latest chrome engine features.
 
-https://mozilla.org
+https://www.chromium.org/
 
 ## Game Design
 Game design is one of the best ways to internalize coding logic and hierarchical programming. It's also a straightforward way to learn about performance and low level programming as the results are immediately obvious by what happens your screen.
@@ -140,7 +146,7 @@ Pretty much the ultimate game/simulation engine. They have major investors on to
 https://unrealengine.com
 
 #### Unity Engine
-Bigger community than UE4, some things are easier, but also less intuitive with less free tools available.
+Bigger community than UE (for now), some things are easier, but it's also less intuitive with less free tools available.
 
 https://unity.com
 
@@ -156,6 +162,11 @@ https://kicad.org
 The free version is great, much more user friendly than KiCAD but limited for non-education purposes without paying.
 
 https://www.autodesk.com/products/eagle/overview
+
+#### CircuitMaker (Altium)
+Free version of Altium, which is a very expensive software otherwise.
+
+https://www.altium.com/circuitmaker
 
 ## Coding API Highlights
 Here's APIs that are very current in their philosophy and optimization. I'm still learning how to use most of these but they're freakin sweet. There are obviously dozens of popular free distibuted APIS (database APIs, visual APIs, etc) but these are a few I enjoy in particular.
@@ -189,7 +200,7 @@ Flask is a python server library, Quart is the asyncio and multithreading-based 
 
 https://gitlab.com/pgjones/quart
 
-
+etc...
 
 
 
