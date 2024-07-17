@@ -79,6 +79,9 @@ https://github.com/Ardour/ardour
 ## Code Editors
 Sure you could do everything through command line and notepad, but that kind of sucks and precludes a lot of potential for better, more creative work. Github and sourceforge are loaded with examples in any coding language. https://stackoverflow.com is an oracle for coding problems.
 
+## VSCodium
+Tracker-free VSCode. You really don't need anything else now, I do all my microcontroller and app programing in VSCode with some simple environment configuraiton. https://vscodium.com/
+
 #### Visual Studio
 Omni editor, great package manager, I use this mainly for C++
 
@@ -171,6 +174,25 @@ https://www.altium.com/circuitmaker
 ## Coding API Highlights
 Here's APIs that are very current in their philosophy and optimization. I'm still learning how to use most of these but they're freakin sweet. There are obviously dozens of popular free distibuted APIS (database APIs, visual APIs, etc) but these are a few I enjoy in particular.
 
+#### Shameles plug
+
+#### Tinybuild
+Do you want to program in the most convenient language and be able to scale in the most convenient possible way to create web, desktop, and mobile applications with a single build setup? Well that's not as easy as it should be, but we put together a bundler system that gets you as close as possible and using the easiest most scalable dependencies with ESBuild and options for Tauri or Electron for Desktop and Capacitor for Android and IOS.
+
+https://github.com/joshbrew/tinybuild
+
+We are going on 100 repositories now, check it out to find more web and microcontroller resources. 
+
+
+#### ThreeJS or BabylonJS
+We are web devs so we like having a primitive 3D rendering system. ThreeJS gives you good control over simple 3D scenes and about a decade of free support, BabylonJS gives you a more professional suite suitable for game development and a similarly long legacy of community engagement. WebGPU with WebGL2 fallbacks to ensure decent performance, we are confident in the future of graphics on the web.
+
+https://threejs.org/
+
+https://www.babylonjs.com/
+
+
+
 #### Tensorflow
 Google's machine learning and data analytics libraries. Super optimized, based on Nvidia hardware. Unreal Engine compatible via a plugin (omg). This covers the other really useful python libraries like pandas or numpy, and also Nvidia's dev tools.
 
@@ -189,11 +211,6 @@ https://opencv.org
 Package and library manager for Javascript projects. Pretty essential for any applications and lets you access tens of thousands of packaged libraries and share work.
 
 https://nodejs.org
-
-#### React Native
-Facebook's mobile app development interface. It's changing rapidly and is still in alpha, and some of the documentation is still very poor for certain applications without a lot of prior knowledge in CS. However, the ease of creating applications and doing things like hot-reloading makes rapid prototyping very easy. It's just not great for resource-intensive apps with the current threading structure. Lots of free packages.
-
-https://facebook.github.io/react-native/
 
 #### Quart
 Flask is a python server library, Quart is the asyncio and multithreading-based upgrade to it, which enables 4X or more server performance. Reddit used to be based on Flask, for an example of how just how much traffic you can already handle with simple libraries. It also enables seamless data streaming between coding languages, like to HTML applications via websockets, opening up many possibilities.
